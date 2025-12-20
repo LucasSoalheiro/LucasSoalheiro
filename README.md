@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, Tudo bem?
 
-<!--
-**LucasSoalheiro/LucasSoalheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Lucas Soalheiro, um desenvolver de software em formação
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco é voltado para o desenvolvimento Backend usando o ambiente Node.js com TypeScript, e os frameworks como Fastify, Express.
+
+Também tenho algum conhecimento em Linux
+
+
+
+## Minha Stack Atual:
+
+- **Backend**: TypeScript (Node.js), Fastify, Express;
+- **Banco de dados e ORM**: MySQL, PostgreSQL, Prisma, typeORM
+- **Versionamento**: Git, Github 
+
