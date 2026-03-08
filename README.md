@@ -5,6 +5,8 @@ Me chamo Lucas Soalheiro, um desenvolver de software em formação
 
 Meu foco é voltado para o desenvolvimento Backend usando ambientes como Node.js ou Bun com TypeScript, e frameworks como Fastify, Express.
 
+Atualmente estou estudando a linguagem Java, Domain-Driven Design (DDD) e Programação Orientada a Objetos (POO)
+
 Também tenho algum conhecimento em Linux
 
 
