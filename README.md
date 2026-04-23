@@ -1,18 +1,25 @@
-# Olá, Tudo bem?
+# Backend Developer
 
-Me chamo Lucas Soalheiro, um desenvolver de software em formação
+I build backend systems focused on APIs, business logic and system design
 
-Meu foco é voltado para o desenvolvimento Backend usando ambientes como Node.js ou Bun com TypeScript, e frameworks como Fastify, Express.
+I work with:
+- API development (REST)
+- System design and architecture
+- Business rule modeling
+- Relational database design
 
-Atualmente estou estudando a linguagem Java, Domain-Driven Design (DDD) e Programação Orientada a Objetos (POO)
+## 🧠 Core principles
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- SOLID principles
+- Maintainable and scalable code
 
-Também tenho algum conhecimento em Linux 🐧
+## ⚙️ Tech stack
+- Node.js (Express, Fastify, NestJS)
+- TypeScript
+- PHP (Symfony)
+- Java (Spring Boot)
+- MySQL / PostgreSQL
+- Git / Linux
 
-
-
-## Minha Stack Principal:
-
-- **Backend**: TypeScript (Node.js, Bun), Fastify, Express ou NestJs;
-- **Banco de dados e ORM**: MySQL ou PostgreSql, PrismaORM
-- **Versionamento**: Git, Github 
-
+I try to keep things simple, structured and maintainable — using principles like Clean Architecture, DDD and SOLID when they actually make sense.
