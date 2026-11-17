@@ -1,25 +1,35 @@
 # Backend Developer
 
-I build backend systems focused on APIs, business logic and system design
+Backend development focused on API design, business logic, software architecture and database modeling.
 
-I work with:
-- API development (REST)
-- System design and architecture
-- Business rule modeling
-- Relational database design
+## Technologies
 
-## 🧠 Core principles
-- Clean Architecture
+- **Languages:** PHP, TypeScript, Java, C
+- **Frameworks:** Symfony, Express, Fastify, NestJS, Spring Boot
+- **Databases:** PostgreSQL, MySQL, MongoDB
+- **Tools:** Git, GitHub, Linux, Docker
+
+## Software Engineering
+
+- Object-Oriented Programming (OOP)
 - Domain-Driven Design (DDD)
-- SOLID principles
-- Maintainable and scalable code
+- Clean Architecture
+- SOLID Principles
+- Design Patterns
+- Separation of Concerns
+- Dependency Injection
 
-## ⚙️ Tech stack
-- Node.js (Express, Fastify, NestJS)
-- TypeScript
-- PHP (Symfony)
-- Java (Spring Boot)
-- MySQL / PostgreSQL
-- Git / Linux
+## Technical Focus
 
-I try to keep things simple, structured and maintainable — using principles like Clean Architecture, DDD and SOLID when they actually make sense.
+- RESTful API development
+- Business logic and domain modeling
+- Database design and ORM
+- Authentication and authorization
+- Error handling and validation
+- Software architecture and modularity
+- Automated testing
+
+## Projects
+
+Projects focused on backend development, API architecture, database modeling and practical application of software engineering principles.
+
